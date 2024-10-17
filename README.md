@@ -1,7 +1,7 @@
 ### Hi I'm Dilshod Umbarov <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="32px" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&width=435&lines=Frontend+Developer;React+Expert;Next.js+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&width=435&lines=Frontend+Developer;React+Expert;Next.js+Developer," alt="Typing SVG" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dilshod7711&color=2F81F7)
@@ -33,7 +33,6 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 #### Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
