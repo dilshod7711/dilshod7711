@@ -1,17 +1,43 @@
-- 👋 Hi, I’m Dilshod
-- 👀 I’m interested in Crypto
-- 🌱 I’m currently stydying in "Najot Talim"
-- 📫 How to reach me: dilshodumbarov707@gmail.com
-- ⚡️ Fun fact: Do you know me
+### Hi I'm Dilshod Umbarov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iskanderovv.iskanderovv)![](https://hit.yhype.me/github/profile?user_id=117995945)
 
-Languages and Tools I work with:
+- 🔭 I’m React Js Developer
+- 📍 &nbsp;Current location: Tashkent, Uzbekistan.
+- 📫 How to reach me: <a href="https://t.me/umbarovff"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="www.linkedin.com/in/dilshod0711"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dilshodumbarov707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-![image](https://camo.githubusercontent.com/20fa323d9dfd4ae88fc654a5eb406e0d13bfd3d00a966c62c25347bda3e4e89d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d6630363532393f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
-)
-![image](https://camo.githubusercontent.com/c867180d511cdd87dbfab7b88964598a6c0a9fa2825feddf1782534d4569225f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3236346465343f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/034daf62c344e77f15b3a50eb22c8c2718df016dd0350fec5d605e1c6e4b49d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534353532d4343363639393f7374796c653d666c6174266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/58cd0f0f7e745ac74fa418f7a8771e7e99654ba0e005f8d5cf3f110037c68546/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642532304353532d3338423241433f7374796c653d666c6174266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/635fd47c550b70cb63b9cfa98b175aa1971f88e8b393585842cefc3d66bb6251/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d333233333330)
-![image](https://camo.githubusercontent.com/6c2675b3d1e6ba745689734e2ac2bf5372cea867d33405f67b24838ed2f8d11d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/c3044fc2240409a905d5ec0f0cb500f464da3b97691043ef8fdb3d2c2818320e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3332333333303f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
+### Languages and Tools I work with:
 
+![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-8E44AD?style=flat&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux-toolkit](https://img.shields.io/badge/-Redux--toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+<br>
+
+<p align="center" style="display: flex; justify-content: center;">
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align="center"/>
+    </a>
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align="center"/>
+    </a>
+</p>
+<p align="center" style="display: flex; justify-content: center;">
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align="center"/>
+    </a>
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align="center"/>
+    </a>
+</p>
