@@ -34,12 +34,3 @@
 
 
 
-<p align="center">
-    <a href="https://github.com/iskanderovv#gh-light-mode-only">
-        <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=default" alt="erdkse" />
-    </a>
-    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
-        <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=dark" alt="erdkse" />
-    </a>
-</p>
-
