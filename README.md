@@ -29,7 +29,7 @@
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align="center"/>
     </a>
     <a href="https://github.com/iskanderovv#gh-light-mode-only">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align="center"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umbarovff&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align="center"/>
     </a>
 </p>
 <p align="center" style="display: flex; justify-content: center;">
