@@ -15,7 +15,6 @@
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-8E44AD?style=flat&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Redux-toolkit](https://img.shields.io/badge/-Redux--toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
