@@ -58,6 +58,3 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dilshod7711/dilshod7711/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
